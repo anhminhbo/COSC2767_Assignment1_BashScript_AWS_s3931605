@@ -6,7 +6,8 @@
   ID: 3931605
   Created date: 25/07/2022
   Last modified: 25/07/2022
-  Acknowledgement: Acknowledge the resources that you use here. -->
+  Acknowledgement: to Ania Kubów for the using of her content: https://www.youtube.com/watch?v=-D6oTPA4vXc and images from google.
+ -->
 
 # COSC2767_Assignment1_BashScript_AWS_s3931605
 
