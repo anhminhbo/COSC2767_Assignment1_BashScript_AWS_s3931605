@@ -8,8 +8,8 @@
 #   Last modified: 26/07/2022
 #   Acknowledgement: to Ania Kubów for the using of her content: https://www.youtube.com/watch?v=-D6oTPA4vXc and images from google.
 
-# cp bash file to root folder
-cp -a bash/. ~
+# # cp bash file to root folder
+# cp -a bash/. ~
 
 # Install JDK 11 and "y" for the asking
 sudo amazon-linux-extras install java-openjdk11 -y
